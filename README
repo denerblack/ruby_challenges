@@ -1,1 +1,5 @@
 I am looking for challenges in ruby and put the solutions here.
+
+shift_subtitle:
+	link: http://rubylearning.com/blog/2009/09/24/rpcfn-shift-subtitle-1/
+	how to test: ruby shift_subtitle.rb --operation add --time 03,222 origin.srt destination.srt (you also could use "--operation sub" to subtract) 
